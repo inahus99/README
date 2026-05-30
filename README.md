@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Suhani 👋
+# Hi, I'm Suhani
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Developer;Backend+%26+Real-time+Systems;LeetCode+Knight+%F0%9F%8F%85;Open+to+Work+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
@@ -8,6 +8,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/inahus99)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inahus99)
 [![LeetCode](https://img.shields.io/badge/LeetCode_Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/inahus99)
+
+![Profile Views](https://komarev.com/ghpvc/?username=inahus99&color=7c3aed&style=flat-square&label=Profile+Views&base=47)
 
 </div>
 
@@ -32,20 +34,25 @@ const suhani = {
 ## Work Experience
 
 **Fencio.dev** · MTS Intern · *Jan 2026 – Present · Bengaluru*
-
-Joined to fix LLM scrapers that were randomly writing garbage to production. Ended up building a full multi-agent system that auto-generates CSS selectors — so now no one has to write them by hand. Cut external API costs by ~80% and pagination latency by 66%. Also built a threat-testing framework because apparently that was needed too.
+- Replaced non-deterministic LLM scrapers causing bad DB writes; built a multi-agent system that auto-generates CSS selectors
+- Cut external API costs by ~80% via LLM-driven profiling across 55+ feeds
+- Reduced pagination latency by 66% through dynamic polling and DOM rendering bypass
+- Built a threat-testing framework with data leakage, supply chain, and RBAC modules
 
 **Adnoxy** · Software Developer Intern · *Nov 2025 – Jan 2026 · Gurugram*
-
-Worked on the infra side — set up hot/warm/cold storage tiers with Redis and Cloudflare R2 so the expensive API calls stopped happening on every request. Built a schema validation engine handling 19+ attributes with fuzzy schema mapping. Reduced external API calls by ~80% with a geo-intelligence caching layer on OpenStreetMap.
+- Set up hot/warm/cold storage tiers with Redis + Cloudflare R2, cutting egress costs to near-zero
+- Built a schema validation engine for 19+ attributes with fuzzy schema mapping (50+ aliases → 14 canonical fields)
+- Reduced external API calls by ~80% with a geo-intelligence caching layer powered by OpenStreetMap
+- Automated PDF → structured JSON ingestion via LLMs (Gemini/Ollama), cutting onboarding effort by 3x
 
 **NavaJuni News** · Software Developer Intern (Part-time) · *Oct 2025 – Jan 2026 · Gandhinagar*
-
-Designed the backend from scratch — 20+ table relational schema, 30+ REST APIs, and a pipeline that ingests 100+ daily articles across 20+ RSS feeds with zero manual intervention. Also automated the entire PDF → structured JSON pipeline using Gemini/Ollama, which cut onboarding effort by 3x.
+- Designed backend from scratch: 20+ table relational schema and 30+ REST APIs
+- Built content pipeline handling 100+ daily articles across 20+ RSS feeds with zero manual intervention
+- Shipped a 3-tier admin panel (Super Admin / Admin / Moderator) for feed moderation and onboarding
 
 **ShareWheelz LLP** · Node.js Developer Intern · *Jul 2025 – Sep 2025 · Remote*
-
-Built out the core backend — RESTful APIs with Express.js, OAuth-based auth, optimized PostgreSQL schemas, and Socket.io for real-time matched rider flows.
+- Built core backend with RESTful APIs (Express.js), OAuth-based auth, and optimized PostgreSQL schemas
+- Integrated Socket.io for real-time communication in matched rider flows
 
 ---
 
@@ -121,7 +128,8 @@ Built out the core backend — RESTful APIs with Express.js, OAuth-based auth, o
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=inahus99&theme=tokyonight&no-frame=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-stats.vercel.app/api?username=inahus99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github&cache_seconds=86400" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inahus99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&langs_count=6&cache_seconds=86400" height="160" />
 
 </div>
 
