@@ -128,8 +128,8 @@ const suhani = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=inahus99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github&cache_seconds=86400" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inahus99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&langs_count=6&cache_seconds=86400" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=inahus99&theme=tokyonight" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=inahus99&theme=tokyonight" height="160" />
 
 </div>
 
