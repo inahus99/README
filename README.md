@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Suhani 👋
+# Hi, I'm Suhani 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Developer;Backend+%26+Real-time+Systems;LeetCode+Knight+%F0%9F%8F%85;Open+to+Work+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
