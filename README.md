@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Developer;Backend+%26+Real-time+Systems;LeetCode+Knight+%F0%9F%8F%85;Open+to+Work+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://inahus-portfolio.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/inahus99)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inahus99)
 [![LeetCode](https://img.shields.io/badge/LeetCode_Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/inahus99)
 
